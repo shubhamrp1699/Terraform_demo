@@ -1,4 +1,4 @@
-String credentialsId = 'AWS_credentials '
+String credentialsId = 'AWS_credentials'
 
 try {
   stage('checkout') {
